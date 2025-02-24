@@ -1,4 +1,1 @@
-```
-npm install
-npm run deploy
-```
+Boilerplate project of sst.dev used in combination with a presentation from Filip Pyrek.
